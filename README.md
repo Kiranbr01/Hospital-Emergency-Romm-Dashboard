@@ -7,6 +7,10 @@ It helps stakeholders **monitor patient flow, analyze admission trends, satisfac
 ## Dataset Used
 <a href="https://github.com/Kiranbr01/Hospital-Emergency-Romm-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">DATASET</a>
 
+## Dashboard Preview
+<img width="1193" height="545" alt="Final Dashboard of Hospital Emergency Room" src="https://github.com/user-attachments/assets/a97ad868-c1c8-41ce-bf14-7e62d81ed468" />
+
+
 ## 📊 KPI’s (Key Performance Indicators)
 | KPI | Description |
 |------|--------------|
@@ -35,15 +39,28 @@ It helps stakeholders **monitor patient flow, analyze admission trends, satisfac
 
 ---
 
-## 💡 Process Insights
-- **Total Patients:** 952 patients recorded.  
-- **Admission Rate:** 53% admitted, 47% not admitted.  
-- **Gender Split:** 52% female, 48% male.  
-- **Timeliness:** 58% attended on time; 42% experienced delays.  
-- **Top Referrals:** General Practice and Orthopedics departments received the most referrals.  
-- **Age Group:** Most patients belong to the 40–59 age group.
-
+## 🧠 Tools & Techniques
+- **Microsoft Excel (Dashboarding & Data Analytics)**
+- **Pivot Tables & Pivot Charts**
+- **Slicers for Interactivity**
+- **Formulas:** `COUNTIF`, `AVERAGEIF`, `INDEX-MATCH`, `IFERROR`
+- **Data Visualization Techniques**
+- **Sparkline Charts & Conditional Formatting*
+  
 ---
+
+## ❓ Sample Analytical Questions
+1. What are the busiest months in the ER?  
+2. How can average wait time be reduced?  
+3. Which departments receive the most referrals?  
+4. What patterns exist in age-wise patient visits?  
+5. Is there a gender trend in patient admissions?  
+6. How does wait time affect satisfaction scores?  
+7. What percentage of patients are admitted vs. discharged?  
+8. What factors contribute to delays in patient handling?  
+9. Which KPIs show improvement opportunities?  
+10. How can Excel dashboards be used for real-time hospital reporting?
+
 
 ## 📈 Final Conclusion
 This Excel dashboard provides a **clear snapshot of hospital emergency performance**, helping:
@@ -51,18 +68,6 @@ This Excel dashboard provides a **clear snapshot of hospital emergency performan
 - Reduce wait times by allocating staff during peak hours.
 - Monitor satisfaction trends to improve patient experience.
 - Support data-driven hospital management decisions.
-
----
-
-## 🧠 Tools & Techniques
-- **Microsoft Excel (Dashboarding & Data Analytics)**
-- **Pivot Tables & Pivot Charts**
-- **Slicers for Interactivity**
-- **Formulas:** `COUNTIF`, `AVERAGEIF`, `INDEX-MATCH`, `IFERROR`
-- **Data Visualization Techniques**
-- **Sparkline Charts & Conditional Formatting**
-
-## DASHBOARD 
 
 
 
